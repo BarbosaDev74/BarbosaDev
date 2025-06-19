@@ -8,15 +8,15 @@
     src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </a>
 
-🚀 I transform ideas into modern and responsive digital experiences through creative, elegant websites and practical tools.
+🚀 Transformo ideias em experiências digitais modernas e responsivas por meio de sites criativos, elegantes e ferramentas práticas.
 
-💻 I work with technologies like HTML, CSS, JavaScript, React, Node.js and GitHub. I have experience with API integration, MySQL databases, and deploying with Vercel and GitHub Pages.
+💻 Trabalho com tecnologias como HTML, CSS, JavaScript, React, Node.js e GitHub. Tenho experiência com integração de APIs, bancos de dados MySQL e deploy utilizando Vercel e GitHub Pages.
 
-🎨 Passionate about frontend development, creative coding, and building tools that help the developer community.
+🎨 Sou apaixonado por desenvolvimento frontend, programação criativa e criação de ferramentas que ajudam a comunidade de desenvolvedores.
 
-🌱 Currently learning and exploring advanced JavaScript, React animations, and backend integrations.
+🌱 Atualmente estou aprendendo e explorando JavaScript avançado, animações com React e integrações com backend.
 
-🤝 Open to collaborating on open-source projects, creative web ideas, and anything that adds value to others.
+🤝 Aberto para colaborar em projetos open-source, ideias criativas para a web e tudo que agregue valor para outras pessoas.
 
 ---
 
